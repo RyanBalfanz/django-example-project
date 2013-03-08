@@ -22,7 +22,7 @@ This process assumes a basic knowledge of the Python ecosystem. If you are unfam
 
 0. Create a virtual environment `mkvirtualenv django-example-project`
 1. Clone this repository `git clone git@github.com:RyanBalfanz/django-example-project.git`
-2. From within the repository root, tnstall project dependencies `pip install -r requirements.txt`
+2. From within the repository root, install project dependencies `pip install -r requirements.txt`
 
 Usage
 -----

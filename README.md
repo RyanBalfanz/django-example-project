@@ -18,8 +18,11 @@ This repository demonstrates:
 Installation
 ------------
 
-1. Clone this repository
-2. Install project dependencies `pip install -r requirements.txt`
+This process assumes a basic knowledge of the Python ecosystem. If you are unfamilliar with [Pip], [Virtualenv] and it's counterpart Virtualenvwrapper, and the like, you may want to do some initial research into those topics.
+
+0. Create a virtual environment `mkvirtualenv django-example-project`
+1. Clone this repository `git clone git@github.com:RyanBalfanz/django-example-project.git`
+2. From within the repository root, tnstall project dependencies `pip install -r requirements.txt`
 
 Usage
 -----
@@ -48,3 +51,5 @@ Alternatively, to run the application with Supervisor simply run `supervisord` i
   [Supervisor]: http://supervisord.org/
   [Heroku Postgres]: https://postgres.heroku.com/
   [Amazon RDS]: http://aws.amazon.com/rds/
+  [Pip]: https://github.com/pypa/pip
+  [Virtualenv]: http://www.virtualenv.org/en/latest/

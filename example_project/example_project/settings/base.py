@@ -24,3 +24,6 @@ INSTALLED_APPS += (
 	'django.contrib.admindocs',
 )
 
+PROJECT_APPS = (
+	'example_project.core',
+)

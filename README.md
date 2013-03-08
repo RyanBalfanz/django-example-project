@@ -7,10 +7,13 @@ django-example-project
 Features
 --------
 
-- Demonstrates repository-level layout and organization
-- Demonstrates project-level layout and organization
-- Demonstrates Procfile-based process management with [Foreman], which is great for deploying to Heroku
+This repository demonstrates:
+
+- Repository-level layout and organization
+- Project-level layout and organization
+- Procfile-based process management with [Foreman], which is great for deploying to [Heroku]
 
   [Django]: https://www.djangoproject.com/
   [Django 1.5]: https://docs.djangoproject.com/en/1.5/
   [Foreman]: https://github.com/ddollar/foreman
+  [Heroku]: http://www.heroku.com/

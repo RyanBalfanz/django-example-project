@@ -15,6 +15,12 @@ This repository demonstrates:
 - Procfile-based process management with [Foreman], which is great for deploying to [Heroku]
 - [Supervisor] based process management
 
+Installation
+------------
+
+1. Clone this repository
+2. Install project dependencies `pip install -r requirements.txt`
+
 Usage
 -----
 

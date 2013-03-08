@@ -16,3 +16,11 @@ def project_dir(*args):
 	'/path/to/project/foo/bar'
 	"""
 	return os.path.abspath(os.path.join(PROJECT_DIR, *args))
+
+INSTALLED_APPS += (
+	# Uncomment the next line to enable the admin:
+	'django.contrib.admin',
+	# Uncomment the next line to enable admin documentation:
+	'django.contrib.admindocs',
+)
+

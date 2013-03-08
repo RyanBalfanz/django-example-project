@@ -1,1 +1,4 @@
 *.pyc
+supervisord.log
+supervisord.pid
+supervisor.sock
